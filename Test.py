@@ -7,3 +7,7 @@ name3 = "mariam mohamed mubarak"
 id_name3 =2320604
 print("الاسم:" name3)
 print("ID:", id_number3)
+name4 = "huda hamdy eldeb"
+id_name4 =2320721
+print("الاسم:" name4)
+print("ID:", id_number4)
