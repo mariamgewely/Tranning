@@ -11,7 +11,11 @@ name4 = "huda hamdy eldeb"
 id_name4 =2320721
 print("الاسم:" name4)
 print("ID:", id_number4)
+name6 = "MARIAM GEWELY"
+id_name6 =2320605
+print("الاسم:" name6)
+print("ID:", id_number6)
 name7 = "Aya Mokhtar"
 id_name7 =2320155
 print("الاسم:" name7)
-print("ID:", id_number7)
+print("ID:", id_number7name4 = "huda hamdy eldeb"
